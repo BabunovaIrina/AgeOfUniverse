@@ -1,6 +1,5 @@
-public class Main {
+public class AgeOfUniverse {
     public static void main(String[] args) {
-
         final long ageUniverse = 13000000000l;
         System.out.println("Возраст Вселенной - " + ageUniverse + " лет");
 
